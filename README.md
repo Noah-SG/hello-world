@@ -1,2 +1,2 @@
 # hello-world
-Greeting the cosmos with style
+My name is Noah Goldman. I like to be the dude.
